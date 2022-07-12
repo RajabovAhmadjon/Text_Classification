@@ -4,3 +4,5 @@ The project aims to familiarise students with the basic steps of the process fol
 - Nearest Neighbor Search, Duplicate, Detection with Locality Sensitive Hashing
 
 Kaggle link: https://www.kaggle.com/competitions/bigdata2021duplicatedetection
+
+## Note: for more information see the "Report" word document!
